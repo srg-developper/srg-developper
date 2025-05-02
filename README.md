@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developement
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on IT 
-- 📫 How to reach me eticaretsergen@gmail.com
+- 📫 How to reach me sergensulan123@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
